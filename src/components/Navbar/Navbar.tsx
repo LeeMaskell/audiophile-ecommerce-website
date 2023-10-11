@@ -8,9 +8,9 @@ import {
   CartContainer,
   CompanyLogo,
 } from "./Navbar.styles";
-import logo from "../../logo.svg"; // move to an assets folder
-import cart from "../../icon-cart.svg"; // move to an assets folder
-import hamburger from "../../icon-hamburger.svg"; // move to an assets folder
+import logo from "../../assets/logo.svg"; // move to an assets folder
+import cart from "../../assets/icon-cart.svg"; // move to an assets folder
+import hamburger from "../../assets/icon-hamburger.svg"; // move to an assets folder
 import { NavLinks } from "../NavLinks/NavLinks";
 import { IconButton } from "../IconButton/IconButton";
 

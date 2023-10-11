@@ -9,7 +9,7 @@ import {
   FooterText,
   CopyrightText,
 } from "./Footer.styles";
-import logo from "../../logo.svg"; // move to an assets folder
+import logo from "../../assets/logo.svg"; // move to an assets folder
 import { NavLinks } from "../NavLinks/NavLinks";
 import {
   AiFillFacebook,

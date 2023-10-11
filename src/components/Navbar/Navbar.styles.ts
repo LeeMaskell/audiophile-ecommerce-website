@@ -14,6 +14,7 @@ export const NavbarContainer = styled.div`
 
 export const ResponsiveContainer = styled.div`
   width: 67%;
+  max-width: 1440px;
   height: 100%;
   display: flex;
   align-items: center;

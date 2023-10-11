@@ -14,6 +14,7 @@ export const FooterContainer = styled.footer`
 
 export const ResponsiveContainer = styled.div`
   width: 67%;
+  max-width: 1440px;
   height: auto;
 
   @media (max-width: 1280px) {
